@@ -1,0 +1,1 @@
+# prova-a1-algprog-SistemaSentinela
